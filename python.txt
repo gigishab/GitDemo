@@ -1,1 +1,44 @@
-practicing file
+
+
+########BASICS
+     
+
+print("----------")
+print((          "|"),("       |"))
+print((         "|"),("       |"))
+print((         "|"),("       |"))
+print("----------")
+
+print("       /")
+print("      /")
+print("     /")
+print("    /")
+#print("  /")
+
+print ("hello world")
+
+
+#variables
+is_male = True
+character_name = "jhon"
+character_age ="65"
+print(character_name+character_age+"is ver jolly and nice person")
+
+#STRINGS
+
+print("giraffe Academy")
+
+print("giraffe\n Academy")#\n for new line
+
+spot = "giraffe,Academy"
+print(spot)
+
+
+spot = "giraffe,Academy"
+
+print(spot.upper())
+
+spot = "GIRAFFE,ACADEMY"
+print(spot.lower())
+
+
